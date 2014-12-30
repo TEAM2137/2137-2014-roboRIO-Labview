@@ -1,0 +1,7 @@
+#Check Hot Test
+
+SET_ROLLER_SPEED 50
+
+WAIT 100
+
+ARM_MOVE 1
